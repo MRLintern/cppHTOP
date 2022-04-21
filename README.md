@@ -1,5 +1,6 @@
 ## System-Monitor
-This software is part of a project from the Udacity C++ Nano Degree in which I'm enrolled in.
+This tool developed in C++ can be seen as an equivalent to the htop command line utility,
+which allows a user to interactively monitor computer's system resources in real-time.
 
 ## Dependencies
 ### ncurses
